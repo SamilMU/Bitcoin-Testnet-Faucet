@@ -1,6 +1,6 @@
 # Bitcoin Testnet Faucet
 
-This is a Bitcoin Testnet Wallet app developed using Spring Boot. 
+This is a Bitcoin Testnet Wallet app developed using BitcoinJ + Spring Boot. 
 
 No frontend, only api.  
 
